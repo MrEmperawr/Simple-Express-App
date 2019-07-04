@@ -1,0 +1,40 @@
+{
+    "languages": [
+        {
+            "language": "Java",
+            "proficiency": "low"
+        },
+        {
+            "language": "Python",
+            "proficiency": "King (lol no)"
+        },
+        {
+            "language": "Javascript",
+            "proficiency": "God-Emperor (nah, but good!)"
+        },
+        {
+            "language": "Julia",
+            "proficiency": "Saw it once"
+        },
+        {
+            "language": "R",
+            "proficiency": "It's alright, I'm decent"
+        },
+        {
+            "language": "Ruby",
+            "proficiency": "I ain't on no rails, brush"
+        },
+        {
+            "language": "Scala",
+            "proficiency": "Please, let no more torture :oooo"
+        },
+        {
+            "language": "C#",
+            "proficiency": "Noob, but i wanna learn way more!!"
+        },
+        {
+            "language": "Haskell",
+            "proficiency": "Wat dis?"
+        }
+    ]
+}
